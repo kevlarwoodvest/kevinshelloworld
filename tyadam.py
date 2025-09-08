@@ -1,4 +1,8 @@
-print('wildtown usa')
+# Ask user for their name, and format
+name = input('whats your name?').strip().title()
 
-print("where the doggies ruff")
+# say hello to user
+print(f'hello, {name}') 
+
+
 
