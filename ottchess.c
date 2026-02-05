@@ -122,6 +122,6 @@ int printboard(int board[8][8])
 int notationToCoords(char *notation, int *row, int *col)
 {
     *col = notation[0] - 'a';
-    *row8 - (notation[1] - '0'); = 
+    *row8 - (notation[1] - '0');
     return 0;
 }
